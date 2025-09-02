@@ -1,6 +1,6 @@
 # Nombre de la aplicación
 
-Conecta UAN.
+Conecta UAN. 
 
 La aplicación Chats UAN es una plataforma de mensajería instantánea diseñada exclusivamente para los estudiantes y docentes de la Universidad Antonio Nariño.
 Su objetivo principal es ofrecer un espacio de comunicación ágil, seguro y enfocado en la vida académica.
