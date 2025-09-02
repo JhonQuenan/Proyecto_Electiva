@@ -15,6 +15,8 @@ En conclusión, Chats UAN fortalece la interacción digital entre estudiantes y 
 
 Autor(es): Jhon Sebastian Quenan Ceballos
 
+
+
 ## Referencias
 
 - [Ideas iniciales de proyecto](docs/ideas.md)
