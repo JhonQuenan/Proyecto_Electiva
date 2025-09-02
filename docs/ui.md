@@ -15,7 +15,7 @@ Incluye validaciones para dominio permitido y feedback de error.
 ## 2. Autenticación
 Muestra el formulario de ingreso con campos de usuario y contraseña, asegurando acceso solo a miembros de la UAN.
 
-![Autenticacion](images/Autenticacion.png)
+![Autenticación](images/Autenticacion.png)
 
 ---
 
@@ -45,22 +45,22 @@ Los mensajes se muestran en burbujas con hora y estado de envío.
 ## 6. Opción de Adjuntar
 Desde el chat individual, el usuario puede adjuntar fotos, videos, documentos o grabar audio.
 
-![Opcion-de-adjuntar](images/Opcion-de-ag.png)
+![Opción de adjuntar](images/Opcion de agregar.png)
 
 ---
 
-## 7. Información de Contacto
+## 7. Información de Usuario
 Ficha de contacto con nombre, correo institucional, estado y archivos compartidos.  
 Desde aquí se puede editar o eliminar el contacto.
 
-![Informacion de contacto](images/Informacion de contacto.png)
+![Información del Usuario](images/Informacion del Usuario.png)
 
 ---
 
 ## 8. Edición de Contacto
 Formulario que permite modificar datos del contacto o añadir notas personalizadas.
 
-![Edicion de contacto](images/Edicion de contacto.png)
+![Edición de contacto](images/Edicion de contacto.png)
 
 ---
 
@@ -89,7 +89,7 @@ Detalle de un estado publicado por el usuario o sus contactos.
 ## 12. Configuración
 Sección con múltiples categorías de ajustes: cuenta, notificaciones, almacenamiento, datos y ayuda.
 
-![Configuracion](images/Configuracion.png)
+![Configuración](images/Configuracion.png)
 
 ---
 
