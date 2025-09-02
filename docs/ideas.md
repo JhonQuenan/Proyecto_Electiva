@@ -1,21 +1,19 @@
 # Ideas de proyecto
 
-## Idea 1
+Propósito: Crear una app de mensajería exclusiva para la comunidad UAN, segura y privada, con login institucional, chats 1:1, estados, perfil y ajustes (notificaciones, almacenamiento).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Diferenciador: Acceso limitado a usuarios con correo institucional.
 
-Aplicaciones similares:
+Usuarios objetivo: estudiantes, docentes y personal UAN (acceso con correo @uan.edu.co).
 
-- ...
-- ...
-- ...
+Arquitectura de navegación: pestañas inferiores Chats / Estado / Ajustes (y variantes con Novedades/Cámara/Llamadas según versión del tab bar del prototipo). 
 
-## Idea 2
+Funcionalidades clave: Chat individual y grupal.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Compartir multimedia y documentos académicos.
 
-Aplicaciones similares:
+Estados para comunicación informal.
 
-- ...
-- ...
-- ...
+Perfil editable.
+
+Ajustes de seguridad, notificaciones y almacenamiento.
